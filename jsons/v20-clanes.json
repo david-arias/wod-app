@@ -1,0 +1,551 @@
+[
+    {
+        "name": "Assamitas",
+        "nickname": "Asesinos",
+        "disciplines": [
+            {
+                "name": "Celeridad"
+            },
+            {
+                "name": "Extinción"
+            },
+            {
+                "name": "Ofuscación"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Independiente",
+        "quote": "Tu Sangre es anatema para mí, pero el acto de derramarla me acerca a Haqim."
+    },
+    {
+        "name": "Brujah",
+        "nickname": "Chusma",
+        "disciplines": [
+            {
+                "name": "Celeridad"
+            },
+            {
+                "name": "Potencia"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Te daré ventaja. Tú eres la tortuga y yo soy la liebre. Una liebre muy cabreada con ganas de joder al mundo, con unas cuantas cuentas pendientes y una sed como la del mismísimo Diablo."
+    },
+    {
+        "name": "Gangrel",
+        "nickname": "Forasteros",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Protean"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Éste no es lugar para ti, y es demasiado tarde para volverse atrás. Corre, hombrecillo."
+    },
+    {
+        "name": "Giovanni",
+        "nickname": "Necromantes.",
+        "disciplines": [
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Necromancia"
+            },
+            {
+                "name": "Potencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Independiente",
+        "quote": "Has malinterpretado la situación si crees que es importante para mí que estés vivo."
+    },
+    {
+        "name": "Lasombra",
+        "nickname": "Guardianes (como en «el guardián de mi hermano»)",
+        "disciplines": [
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Obtenebración"
+            },
+            {
+                "name": "Potencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Sabbat",
+        "quote": "Blandir las sombras es una prolongación del control de la oscuridad en la que todos somos Abrazados."
+    },
+    {
+        "name": "Malkavian",
+        "nickname": "Lunáticos",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Dementación"
+            },
+            {
+                "name": "Ofuscación"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Estaba tratando de transformar el agua en vino. ¿De dónde cojones ha salido toda esta sangre? Oh, bueno, quien guarda, halla."
+    },
+    {
+        "name": "Nosferatu",
+        "nickname": "Ratas de Alcantarilla",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Ofuscación"
+            },
+            {
+                "name": "Potencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "No hay nadie aquí abajo, excepto nosotros, los hombres del saco. Ey, ¿de quién es esta cabeza?"
+    },
+    {
+        "name": "Ravnos",
+        "nickname": "Embusteros",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Quimerismo"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Independiente",
+        "quote": "¿Qué? Eso no son huesos. Son campanillas. Todo va a salir bien. Relájate."
+    },
+    {
+        "name": "Seguidores de Set",
+        "nickname": "Setitas, Serpientes",
+        "disciplines": [
+            {
+                "name": "Ofuscación"
+            },
+            {
+                "name": "Presencia"
+            },
+            {
+                "name": "Serpentis"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Independiente",
+        "quote": "Sé qué necesitas"
+    },
+    {
+        "name": "Toreador",
+        "nickname": "Degenerados",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Celeridad"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Mucho después de que mueras, yo aún seré joven, bella e idolatrada por todo aquél cuya vida toque."
+    },
+    {
+        "name": "Tremere",
+        "nickname": "Brujos",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Taumaturgia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Cuando el mundo rehúsa dar, el que se convierte en amo del mundo aún puede tomar."
+    },
+    {
+        "name": "Tzimisce",
+        "nickname": "Demonios",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Vicisitud"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Sabbat",
+        "quote": "¿Por qué demonios pensarías que quiero que pares de gritar? Encuentro los resultados mucho más melodiosos si te dejas llevar por el miedo."
+    },
+    {
+        "name": "Ventrue",
+        "nickname": "Sangre Azul",
+        "disciplines": [
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "No hay nada vergonzoso en hincar la rodilla ante alguien como yo, así que paga tu puto tributo antes de que se me agote la paciencia."
+    },
+
+    {
+        "name": "Baali",
+        "nickname": "Diablos",
+        "disciplines": [
+            {
+                "name": "Daimoinon"
+            },
+            {
+                "name": "Ofuscación"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "«Miré, y vi un caballo pálido, y el que lo montaba tenía por nombre Muerte, y el Hades lo seguía». ¿Te has fijado que está en pasado? No es un error de traducción."
+    },
+    {
+        "name": "Gárgolas",
+        "nickname": "Tradicionalmente Esclavos, aunque las Gárgolas libres han roto algunas cabezas por ello. Otros apodos comunes son Cabezarrocas, Fugitivos, Hombres Libres y Grotescos.",
+        "disciplines": [
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Potencia"
+            },
+            {
+                "name": "Viscerática"
+            },
+            {
+                "name": "Vuelo"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Camarilla",
+        "quote": "Amo. ¿Por qué la quemó? Ella solo quería volar libre durante una noche… Sí, amo, obedezco."
+    },
+    {
+        "name": "Hermanos de Sangre",
+        "nickname": "Frankensteins",
+        "disciplines": [
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Potencia"
+            },
+            {
+                "name": "Sanguinus"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sabbat",
+        "quote": "Un extraño. ¿Matar? Vigilar. Vigilando. ¿Matar? Vigilando. ¿Matar?"
+    },
+    {
+        "name": "Hijas de la Cacofonía",
+        "nickname": "Sirenas",
+        "disciplines": [
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Melpómene"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "Escuché la canción cuando fallecí. Me guió fuera de la oscuridad y del frío, y vino a mis labios con la Sangre de mi madre-hermana. Y ahora canto, porque si la canción acabara sería el fin de todo."
+    },
+    {
+        "name": "Kiasyd",
+        "nickname": "Extraños",
+        "disciplines": [
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Mythercería"
+            },
+            {
+                "name": "Obtenebración"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sabbat",
+        "quote": "No te invité a entrar. Vete. No toques nada excepto el suelo y el pomo de la puerta, o juro por la Luna y las estrellas que por la mañana estarás al otro lado de ese espejo."
+    },
+    {
+        "name": "Nagaraja",
+        "nickname": "Caníbales",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Dominación"
+            },
+            {
+                "name": "Necromancia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Camarilla",
+        "quote": "Tu destino es inevitable, pero sírveme y te protegeré de él todo el tiempo que pueda."
+    },
+    {
+        "name": "Salubri",
+        "nickname": "Cíclopes o, menos amablemente, Chupaalmas",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Obeah"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "Digo esto absolutamente en serio: ninguna carga que jamás haya llevado pesa más que lo que este nuevo ojo ha visto."
+    },
+    {
+        "name": "Samedi",
+        "nickname": "Fiambres",
+        "disciplines": [
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Ofuscación"
+            },
+            {
+                "name": "Tanatosis"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "Ríete de mí otra vez y te doy un abrazo, puta cursi."
+    },
+    {
+        "name": "Verdaderos Brujah",
+        "nickname": "Sabios",
+        "disciplines": [
+            {
+                "name": "Potencia"
+            },
+            {
+                "name": "Presencia"
+            },
+            {
+                "name": "Temporis"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "Te perdoné anoche porque no habíamos concluido nuestra conversación. Podría perdonarte esta noche, si considero que mañana podrías seguir interesándome."
+    },
+    {
+        "name": "Ahrimanes",
+        "nickname": "Gatas",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Presencia"
+            },
+            {
+                "name": "Spiritus"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "Somos la evolución de tu enfermedad, un despertar de la pesadilla de Caín. Vamos, hermana. Despierta."
+    },
+    {
+        "name": "Anda",
+        "nickname": "Tártaros",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Protean"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Independiente",
+        "quote": "No soy un monstruo. Soy un pastor. Protejo a las ovejas de los lobos como tú, precisamente porque deseo ser yo quien las devore."
+    },
+    {
+        "name": "Capadocio",
+        "nickname": "Ladrones de Tumbas",
+        "disciplines": [
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Necromancia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sin secta",
+        "quote": "Todo el mundo ha de embarcarse con Caronte, tarde o temprano. Nosotros simplemente queremos saber qué preguntarle antes de subir a su bote."
+    },
+    {
+        "name": "Hijos de Osiris",
+        "nickname": "asd",
+        "disciplines": [
+            {
+                "name": "Bardo"
+            }
+        ],
+        "disciplineExtra": "Las apropiadas para el Clan original del personaje. Los Hijos de Osiris también pueden aprender Bardo como una Disciplina de Clan.",
+        "type": "Linea de sangre",
+        "sect": "Secta propia",
+        "quote": "Podría reunirme con el Sol, pero temo que mi corazón no equilibraría la pluma de Ma’at. Hasta que esté seguro, me quedaré."
+    },
+    {
+        "name": "Lamias",
+        "nickname": "Gorgonas",
+        "disciplines": [
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Necromancia"
+            },
+            {
+                "name": "Potencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sin secta",
+        "quote": "Acércate al Príncipe cuando te lo ordene, o perderás tus manos."
+    },
+    {
+        "name": "Lhiannan",
+        "nickname": "Druidas",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Ogham"
+            },
+            {
+                "name": "Presencia"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sin secta",
+        "quote": "Cuando los árboles te estén haciendo pedazos, siéntete libre de invocar a tu dios. Si él te salva, abandonaré mi claro."
+    },
+    {
+        "name": "Noiad",
+        "nickname": "Nómadas",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Auspex"
+            },
+            {
+                "name": "Protean"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "Linea de sangre",
+        "sect": "Sin secta",
+        "quote": "Somos los hijos del Sol de Medianoche. Tenemos una familia. Tenemos lo que tú nunca podrías tener. Y quieres destruirlo todo, ¿no es así?"
+    }
+]
