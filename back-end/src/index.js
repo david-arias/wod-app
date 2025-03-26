@@ -22,6 +22,8 @@ mongoose.Promise = global.Promise;
 
 // ROUTES DECLARE
 const clansRoutes = require('./routes/clans');
+const sectsRoutes = require('./routes/sects');
+const disciplinesRoutes = require('./routes/disciplines');
 
 
 // body parser load
@@ -34,7 +36,9 @@ app.use(cors());
 
 
 // ROUTES
-app.use('/api/clans', clansRoutes);
+app.use('/api/v20/clans', clansRoutes);
+app.use('/api/v20/sects', sectsRoutes);
+app.use('/api/v20/disciplines', disciplinesRoutes);
 
 
 

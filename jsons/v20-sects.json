@@ -1,0 +1,22 @@
+[
+    {
+        "name": "La Camarilla",
+        "desc": "También es conocida como la “Torre de Marfil”, y la Secta vive para dar significado a ese apelativo. Creada en el siglo xv, se formó para preservar y proteger a la sociedad vampírica contra las matanzas provocadas por la Inquisición, así como también ante la merma de poder que representó la Guerra de los Príncipes durante la Edad Oscura. Los líderes de la Camarilla impusieron con firmeza la Tradición de la Mascarada, elevándola al rango de ley principal de la Secta, una prioridad a la que continúan dedicándose incluso en las noches actuales. Los así llamados “Vástagos” buscan mantener una silenciosa armonía entre los vampiros y la humanidad, una meta constantemente amenazada por el Sabbat."
+    },
+    {
+        "name": "El Sabbat",
+        "desc": "En oposición a la Camarilla, se sitúa la Secta de inhumanos vampiros conocida como el Sabbat. La mayoría de las facciones vampíricas creen que la llamada “Espada de Caín” es una colección de bárbaros descerebrados y maníacos ultraviolentos, o incluso adoradores del demonio dedicados a traer a Satán al mundo. Como tal, el Sabbat es envilecido a lo largo de toda la sociedad vampírica."
+    },
+    {
+        "name": "El Movimiento Anarquista",
+        "desc": "Nominalmente una facción dentro de la Camarilla, la mayoría de los “Anarquistas” aún están bajo la autoridad de la Torre de Marfil. La Camarilla diría que los Anarquistas están bajo la protección de la Secta, mientras que los Anarquistas probablemente lo llamarían opresión. Aun así, muchos en el Movimiento Anarquista entienden la utilidad de tener una estructura y sólo los más radicales piden la separación total de la Camarilla. Los Anarquistas buscan cambiar la Torre de Marfil desde dentro, transformándola en la benévola sociedad de Vástagos que tan a menudo dice ser."
+    },
+    {
+        "name": "Los Independientes",
+        "desc": "Durante los siglos pasados, la danza fatal de la Camarilla y el Sabbat ha cambiado la sociedad vampírica. Su sangrienta Jyhad ha moldeado la historia secreta del mundo, destruyendo millones de vidas mortales en el proceso. Sin embargo, existen algunos Clanes que son testigos de cómo ambas Sectas se lanzan al cuello la una a la otra en nombre de su antiguo conflicto y han decidido que preferirían permanecer como testigos al margen."
+    },
+    {
+        "name": "Líneas de Sangre",
+        "desc": "El linaje es muy importante para los Condenados. Los vampiros descendientes de Sires particularmente ilustres poseen a menudo características peculiares, y algunos Vástagos se han desviado de su Clan de manera significativa. La mayoría de estos aspectos pueden simularse a través de la interpretación o a través de Méritos y Defectos; por ejemplo, mientras que todos los Chiquillos del poderoso Hardestadt pueden presentar las mismas restricciones de presa o una necesidad obsesiva por el control, no difieren del resto de los Ventrue significativamente. En muy pocos casos las Líneas de Sangre manifiestan Disciplinas o Debilidades diferentes; éstas se presentan en el Capítulo Diez."
+    }
+]
