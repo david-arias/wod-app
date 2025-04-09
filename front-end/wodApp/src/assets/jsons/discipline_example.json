@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Name Disc",
+        "smallDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore cupiditate harum, unde expedita aliquid dolor incidunt totam quas repudiandae exercitationem rem molestiae quam. Repudiandae mollitia quae ad.",
+        "longDesc": "<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore cupiditate harum, unde expedita aliquid dolor incidunt totam quas repudiandae exercitationem rem molestiae quam. Repudiandae mollitia quae ad.</p><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore cupiditate harum, unde expedita aliquid dolor incidunt totam quas repudiandae exercitationem rem molestiae quam. Repudiandae mollitia quae ad.</p><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore cupiditate harum, unde expedita aliquid dolor incidunt totam quas repudiandae exercitationem rem molestiae quam. Repudiandae mollitia quae ad.</p>",
+        "icon": "wod-icn_main",
+        "clanes": [
+            {
+                "clanID": "CL001",
+                "name": "Gangrel",
+                "icon": "wod-icn_main"
+            }
+        ],
+        "dots": [
+            {
+                "lvl": 1,
+                "name": "lorem ipsum",
+                "desc": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident architecto culpa minima reprehenderit aut perferendis fugit animi! Optio, sint officiis?</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident architecto culpa minima reprehenderit aut perferendis fugit animi! Optio, sint officiis?</p>",
+                "sistem": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident architecto culpa minima reprehenderit aut perferendis fugit animi! Optio, sint officiis?</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident architecto culpa minima reprehenderit aut perferendis fugit animi! Optio, sint officiis?</p>"
+            }
+        ]
+    }
+]
