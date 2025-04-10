@@ -2,26 +2,8 @@ import { useEffect, useState } from "react";
 import "./Disciplines.css";
 
 import TopName from "../../components/disciplinesAtoms/TopName/TopName";
+import Description from "../../components/disciplinesAtoms/Description/Description";
 import Loader from "../../components/Loader/Loader";
-
-// let info: any;
-
-// const getDiscData = async (url: string) => {
-//     try {
-//         const resp = await fetch(url);
-//         const data = await resp.json();
-//         return data[0];
-//     } catch (error) {
-//         return error;
-//     }
-// };
-// getDiscData("/src/assets/jsons/discipline_example.json")
-//     .then((data: any) => {
-//         info = data;
-//     })
-//     .catch((err: any) => {
-//         console.log(err);
-//     });
 
 function Disciplines() {
     const [isLoading, setIsLoading] = useState(true);
@@ -54,6 +36,7 @@ function Disciplines() {
         <>
             <div className="PageWrap">
                 <TopName topInfo={disciplineData} />
+                <Description topInfo={disciplineData} />
             </div>
         </>
     );

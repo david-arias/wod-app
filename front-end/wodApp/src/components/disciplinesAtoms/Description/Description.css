@@ -1,0 +1,92 @@
+.Description {
+    margin: 10px 0 0 0;
+    width: 100vw;
+    height: calc(100vh - 292px);
+    /* background: red; */
+    position: relative;
+
+    .topTabs {
+        height: 62px;
+        ul {
+            padding: 0px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+
+            li {
+                list-style: none;
+                width: calc(33% - 8px);
+
+                button {
+                    width: calc(100%);
+                    font-size: 16px;
+                    font-weight: 600;
+                    color: #8694a6;
+
+                    border-radius: 16px 16px 0px 0px;
+                    background: #f2f2f2;
+                    border: none;
+                    padding: 12px 8px 16px 8px;
+
+                    &.active {
+                        padding: 12px 8px 32px 8px;
+                        background: #4f5f73;
+                        color: #f2f2f2;
+                    }
+                }
+            }
+        }
+    }
+    .tabItems {
+        /* background-color: green; */
+        padding: 0 8px;
+        height: calc(100% - 120px);
+
+        .tab {
+            border-radius: 17px 16px 0px 0px;
+            background: rgba(0, 0, 0, 0.8);
+            box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+            backdrop-filter: blur(2px);
+
+            overflow-y: auto;
+
+            border-radius: 8px 8px 0 0;
+            padding: 16px;
+            box-sizing: border-box;
+            height: 100%;
+
+            &.tabDesc {
+                p {
+                    margin: 0 0 16px 0;
+                }
+            }
+
+            &.tabClans {
+                button {
+                    display: flex;
+                    align-items: center;
+                    margin: 0 0 16px 0;
+                    width: 100%;
+                    padding: 8px;
+
+                    border-radius: 16px;
+                    border: 1px solid #8694a6;
+                    background: #f2f2f2;
+
+                    i {
+                        font-size: 5rem;
+                        color: #4f5f73;
+                    }
+                    p {
+                        margin: 0 0 0 16px;
+                        font-size: 1.2rem;
+
+                        color: #4f5f73;
+                        font-style: normal;
+                        font-weight: 500;
+                    }
+                }
+            }
+        }
+    }
+}

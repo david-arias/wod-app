@@ -16,7 +16,7 @@ body {
     height: 100vh;
 
     font-size: 16px;
-    line-height: 1, 4;
+    line-height: 1.4;
     color: white;
 
     font-family: "Ubuntu", sans-serif;
@@ -27,7 +27,7 @@ body {
 
 .PageWrap {
     width: 100vw;
-    height: calc(100vh - 180px);
+    height: calc(100vh - 150px);
 
     /* debug */
     /* background: red; */
