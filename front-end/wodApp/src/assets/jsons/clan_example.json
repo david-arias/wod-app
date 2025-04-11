@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Gangrel",
+        "nickname": "Forasteros",
+        "disciplines": [
+            {
+                "name": "Animalismo"
+            },
+            {
+                "name": "Fortaleza"
+            },
+            {
+                "name": "Protean"
+            }
+        ],
+        "disciplineExtra": "",
+        "type": "clan",
+        "sect": "Camarilla",
+        "quote": "Éste no es lugar para ti, y es demasiado tarde para volverse atrás. Corre, hombrecillo."
+    }
+]

@@ -1,0 +1,30 @@
+.topBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+
+    .itms {
+        button {
+            display: flex;
+            background: transparent;
+            border: none;
+            color: white;
+
+            i {
+                font-size: 2.3rem;
+            }
+
+            &.midLogo {
+                align-items: center;
+                i {
+                    font-size: 3rem;
+                    margin: 0 8px 0 0;
+                }
+                p {
+                    font-size: 1.4rem;
+                }
+            }
+        }
+    }
+}
